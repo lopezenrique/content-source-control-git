@@ -15,3 +15,4 @@ Be sure to have your SSH key set up and that your public key (located in ~/.ssh/
 Adding a new line to test pushing to new branch.
 Adding a second line to test: pulled branch down, edit, push back to same branch.
 Adding a third line to test: pulled branch down, created new branch, pushing and creating new branch.
+Adding a fourth line: pulled down branch, updated file, pushed back to same branch.
