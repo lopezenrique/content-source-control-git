@@ -19,3 +19,4 @@ Adding a fourth line: pulled down branch, updated file, pushed back to same bran
 Adding a fifth line: recreated readme-updates-3 branch, pushed back to github.
 
 Adding a new branch: readme-updates-4
+- Editing directly from github.com
