@@ -20,3 +20,4 @@ Adding a fifth line: recreated readme-updates-3 branch, pushed back to github.
 
 Adding a new branch: readme-updates-4
 - Editing directly from github.com
+- setup tracking on local 'readme-updates-4' branch to track 'readme-updates-4' branch on github.com
